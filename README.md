@@ -63,16 +63,6 @@ const SidaRTH = {
 
 ---
 
-##  Contribution Graph
-
-<div align="center">
-
-[![SidaRTH-S's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SidaRTH-S&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=003366&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ##  Full Tech Stack
 
 <details open>
